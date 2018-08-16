@@ -1,0 +1,7 @@
+spacy
+tqdm
+beautifulsoup4
+numpy
+matplotlib
+sklearn
+pandas
